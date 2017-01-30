@@ -28,5 +28,7 @@
         <File name="icon" src="icon.png" />
     </Resources>
     <Topics />
-    <IgnoredPaths />
+    <IgnoredPaths>
+        <Path src="Sounds/download_sounds.sh" />
+    </IgnoredPaths>
 </Package>
