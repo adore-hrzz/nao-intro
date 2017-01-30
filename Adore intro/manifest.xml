@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package uuid="adoreintro-b92f72">
+ <names>
+  <name lang="en_US">Adore intro</name>
+ </names>
+ <descriptions>
+  <description lang="en_US">Introductory behavior for functional/symbolic imitation. Possibly useful for other tasks too.</description>
+ </descriptions>
+ <supportedLanguages>
+  <language>en_US</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="Intro">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>
