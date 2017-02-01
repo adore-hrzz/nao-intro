@@ -5,7 +5,7 @@ Introduction sequence for Nao.
 ## Prerequisites
 
  - Download the sound files using the Adore\ intro\Sounds/download_sounds.sh script
- - The [Dances](http://missing.url) package must be installed on the robot
+ - The [Dances](https://github.com/adore-hrzz/nao-dances) package must be installed on the robot
 
 ## Notes
 
