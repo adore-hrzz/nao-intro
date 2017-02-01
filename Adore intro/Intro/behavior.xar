@@ -15,7 +15,7 @@
             <BehaviorLayer name="behavior_layer1">
                 <BehaviorKeyframe name="keyframe1" index="1">
                     <Diagram>
-                        <Box name="Dance" id="5" localization="8" tooltip="Dance to attact the child&apos;s attention" x="430" y="56">
+                        <Box name="Dance" id="5" localization="8" tooltip="Dance to attact the child&apos;s attention" x="609" y="18">
                             <bitmap>media/images/box/movement/dance.png</bitmap>
                             <script language="4">
                                 <content>
@@ -97,7 +97,7 @@ class MyClass(GeneratedClass):
                                 </BehaviorLayer>
                             </Timeline>
                         </Box>
-                        <Box name="Wait For Signals" id="3" localization="8" tooltip="Wait for both inputs to be stimulated before stimulating its output." x="573" y="57">
+                        <Box name="Wait For Signals" id="3" localization="8" tooltip="Wait for both inputs to be stimulated before stimulating its output." x="764" y="42">
                             <bitmap>media/images/box/wait.png</bitmap>
                             <script language="4">
                                 <content>
@@ -1305,70 +1305,70 @@ class MyClass(GeneratedClass):
                                                             <Key frame="230" value="-0.969218" />
                                                         </ActuatorCurve>
                                                         <ActuatorCurve name="value" actuator="LElbowRoll" recordable="0" mute="0" unit="0">
-                                                            <Key frame="24" value="-55.721" />
-                                                            <Key frame="47" value="-55.1057" />
-                                                            <Key frame="72" value="-55.1057" />
-                                                            <Key frame="100" value="-55.721" />
-                                                            <Key frame="128" value="-55.721" />
-                                                            <Key frame="149" value="-55.721" />
-                                                            <Key frame="175" value="-55.721" />
-                                                            <Key frame="200" value="-55.1057" />
-                                                            <Key frame="230" value="-55.721" />
+                                                            <Key frame="24" value="-55.6379" />
+                                                            <Key frame="47" value="-30.5008" />
+                                                            <Key frame="72" value="-64.427" />
+                                                            <Key frame="100" value="-88.5" />
+                                                            <Key frame="128" value="-66.5365" />
+                                                            <Key frame="149" value="-88.5" />
+                                                            <Key frame="175" value="-66.5365" />
+                                                            <Key frame="200" value="-30.5008" />
+                                                            <Key frame="230" value="-55.6379" />
                                                         </ActuatorCurve>
                                                         <ActuatorCurve name="value" actuator="LElbowYaw" recordable="0" mute="0" unit="0">
-                                                            <Key frame="24" value="-78.0503" />
-                                                            <Key frame="47" value="-78.0503" />
-                                                            <Key frame="72" value="-78.0503" />
-                                                            <Key frame="100" value="-78.0503" />
-                                                            <Key frame="128" value="-78.0503" />
-                                                            <Key frame="149" value="-78.0503" />
-                                                            <Key frame="175" value="-78.0503" />
-                                                            <Key frame="200" value="-78.0503" />
-                                                            <Key frame="230" value="-78.0503" />
+                                                            <Key frame="24" value="-78.1333" />
+                                                            <Key frame="47" value="-117.948" />
+                                                            <Key frame="72" value="-102.04" />
+                                                            <Key frame="100" value="-72.1567" />
+                                                            <Key frame="128" value="-101.337" />
+                                                            <Key frame="149" value="-72.1567" />
+                                                            <Key frame="175" value="-101.337" />
+                                                            <Key frame="200" value="-117.948" />
+                                                            <Key frame="230" value="-78.1333" />
                                                         </ActuatorCurve>
                                                         <ActuatorCurve name="value" actuator="LHand" recordable="0" mute="0" unit="1">
-                                                            <Key frame="24" value="0.2536" />
-                                                            <Key frame="47" value="0.2536" />
-                                                            <Key frame="72" value="0.2536" />
-                                                            <Key frame="100" value="0.2536" />
-                                                            <Key frame="128" value="0.2536" />
-                                                            <Key frame="149" value="0.2536" />
-                                                            <Key frame="175" value="0.2536" />
-                                                            <Key frame="200" value="0.2536" />
-                                                            <Key frame="230" value="0.2536" />
+                                                            <Key frame="24" value="0.2" />
+                                                            <Key frame="47" value="0.0824" />
+                                                            <Key frame="72" value="0.0824" />
+                                                            <Key frame="100" value="0.0716" />
+                                                            <Key frame="128" value="0.828" />
+                                                            <Key frame="149" value="0.0716" />
+                                                            <Key frame="175" value="0.828" />
+                                                            <Key frame="200" value="0.0824" />
+                                                            <Key frame="230" value="0.2" />
                                                         </ActuatorCurve>
                                                         <ActuatorCurve name="value" actuator="LShoulderPitch" recordable="0" mute="0" unit="0">
-                                                            <Key frame="24" value="82.2643" />
-                                                            <Key frame="47" value="82.9674" />
-                                                            <Key frame="72" value="82.9674" />
-                                                            <Key frame="100" value="82.2643" />
-                                                            <Key frame="128" value="82.2643" />
-                                                            <Key frame="149" value="82.2643" />
-                                                            <Key frame="175" value="82.2643" />
-                                                            <Key frame="200" value="82.9674" />
-                                                            <Key frame="230" value="82.2643" />
+                                                            <Key frame="24" value="82.1812" />
+                                                            <Key frame="47" value="69.8763" />
+                                                            <Key frame="72" value="42.4541" />
+                                                            <Key frame="100" value="30.8524" />
+                                                            <Key frame="128" value="38.4111" />
+                                                            <Key frame="149" value="30.8524" />
+                                                            <Key frame="175" value="38.4111" />
+                                                            <Key frame="200" value="69.8763" />
+                                                            <Key frame="230" value="82.1812" />
                                                         </ActuatorCurve>
                                                         <ActuatorCurve name="value" actuator="LShoulderRoll" recordable="0" mute="0" unit="0">
-                                                            <Key frame="24" value="15.0271" />
-                                                            <Key frame="47" value="12.654" />
-                                                            <Key frame="72" value="13.2692" />
-                                                            <Key frame="100" value="15.0271" />
-                                                            <Key frame="128" value="15.0271" />
-                                                            <Key frame="149" value="15.0271" />
-                                                            <Key frame="175" value="15.0271" />
-                                                            <Key frame="200" value="12.654" />
-                                                            <Key frame="230" value="15.0271" />
+                                                            <Key frame="24" value="14.7682" />
+                                                            <Key frame="47" value="63.636" />
+                                                            <Key frame="72" value="16.4382" />
+                                                            <Key frame="100" value="8.5279" />
+                                                            <Key frame="128" value="16.9655" />
+                                                            <Key frame="149" value="8.5279" />
+                                                            <Key frame="175" value="16.9655" />
+                                                            <Key frame="200" value="63.636" />
+                                                            <Key frame="230" value="14.7682" />
                                                         </ActuatorCurve>
                                                         <ActuatorCurve name="value" actuator="LWristYaw" recordable="0" mute="0" unit="0">
-                                                            <Key frame="24" value="1.31597" />
-                                                            <Key frame="47" value="0.700723" />
-                                                            <Key frame="72" value="0.700723" />
-                                                            <Key frame="100" value="0.700723" />
-                                                            <Key frame="128" value="0.700723" />
-                                                            <Key frame="149" value="0.700723" />
-                                                            <Key frame="175" value="0.700723" />
-                                                            <Key frame="200" value="0.700723" />
-                                                            <Key frame="230" value="1.31597" />
+                                                            <Key frame="24" value="-2.54646" />
+                                                            <Key frame="47" value="43.8604" />
+                                                            <Key frame="72" value="-19.2459" />
+                                                            <Key frame="100" value="-51.8537" />
+                                                            <Key frame="128" value="-20.1248" />
+                                                            <Key frame="149" value="-51.8537" />
+                                                            <Key frame="175" value="-20.1248" />
+                                                            <Key frame="200" value="43.8604" />
+                                                            <Key frame="230" value="-2.54646" />
                                                         </ActuatorCurve>
                                                         <ActuatorCurve name="value" actuator="RElbowRoll" recordable="0" mute="0" unit="0">
                                                             <Key frame="24" value="55.6379" />
@@ -1842,7 +1842,7 @@ class MyClass(GeneratedClass):
                                 </BehaviorLayer>
                             </Timeline>
                         </Box>
-                        <Box name="Stand Up" id="6" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="110" y="31">
+                        <Box name="Stand Up" id="6" localization="8" tooltip="the robot tries to stand up from any position for a number of tries.&#x0A;&#x0A;Note: The number of tries can be set in parameters." x="93" y="5">
                             <bitmap>media/images/box/movement/stand.png</bitmap>
                             <script language="4">
                                 <content>
@@ -1921,7 +1921,102 @@ class MyClass(GeneratedClass):
                             </Timeline>
                             <Resource name="All motors" type="Lock" timeout="0" />
                         </Box>
-                        <Box name="Wait For Signals (1)" id="7" localization="8" tooltip="Wait for both inputs to be stimulated before stimulating its output." x="271" y="58">
+                        <Box name="Wait For Signals (1)" id="7" localization="8" tooltip="Wait for both inputs to be stimulated before stimulating its output." x="185" y="100">
+                            <bitmap>media/images/box/wait.png</bitmap>
+                            <script language="4">
+                                <content>
+                                    <![CDATA[class MyClass(GeneratedClass):
+    def __init__(self):
+        GeneratedClass.__init__(self, False)
+
+    def onLoad(self):
+        self.ok = [False]*2
+
+    def onUnload(self):
+        #puts code for box cleanup here
+        ""
+
+    def onStart(self, nInput):
+        self.ok[nInput-1] = True
+        bOutput = True
+        for bOk in self.ok:
+            bOutput = bOutput and bOk
+        if( bOutput ):
+            self.ok = [False]*2
+            self.signalsReceived()
+
+    def onInput_signal1(self):
+        self.onStart(1)
+
+    def onInput_signal2(self):
+        self.onStart(2)]]>
+</content>
+                            </script>
+                            <Input name="onLoad" type="1" type_size="1" nature="0" inner="1" tooltip="Signal sent when Diagram is loaded." id="1" />
+                            <Input name="signal1" type="1" type_size="1" nature="1" inner="0" tooltip="First signal to wait." id="2" />
+                            <Input name="signal2" type="1" type_size="1" nature="1" inner="0" tooltip="Second signal to wait." id="3" />
+                            <Output name="signalsReceived" type="1" type_size="1" nature="2" inner="0" tooltip="Signal sent when both inputs have been stimulated." id="4" />
+                        </Box>
+                        <Box name="Move To" id="8" localization="8" tooltip="Make the robot move to a configured point relative to its current location." x="326" y="26">
+                            <bitmap>media/images/box/movement/walk_forward.png</bitmap>
+                            <script language="4">
+                                <content>
+                                    <![CDATA[
+class MyClass(GeneratedClass):
+    def __init__(self):
+        GeneratedClass.__init__(self, False)
+        self.motion = ALProxy("ALMotion")
+        self.positionErrorThresholdPos = 0.01
+        self.positionErrorThresholdAng = 0.03
+
+    def onLoad(self):
+        pass
+
+    def onUnload(self):
+        self.motion.moveToward(0.0, 0.0, 0.0)
+
+    def onInput_onStart(self):
+        import almath
+        # The command position estimation will be set to the sensor position
+        # when the robot starts moving, so we use sensors first and commands later.
+        initPosition = almath.Pose2D(self.motion.getRobotPosition(True))
+        targetDistance = almath.Pose2D(self.getParameter("Distance X (m)"),
+            self.getParameter("Distance Y (m)"),
+            self.getParameter("Theta (deg)") * almath.PI / 180)
+        expectedEndPosition = initPosition * targetDistance
+        enableArms = self.getParameter("Arms movement enabled")
+        self.motion.setMoveArmsEnabled(enableArms, enableArms)
+        self.motion.moveTo(self.getParameter("Distance X (m)"),
+            self.getParameter("Distance Y (m)"),
+            self.getParameter("Theta (deg)") * almath.PI / 180)
+
+        # The move is finished so output
+        realEndPosition = almath.Pose2D(self.motion.getRobotPosition(False))
+        positionError = realEndPosition.diff(expectedEndPosition)
+        positionError.theta = almath.modulo2PI(positionError.theta)
+        if (abs(positionError.x) < self.positionErrorThresholdPos
+            and abs(positionError.y) < self.positionErrorThresholdPos
+            and abs(positionError.theta) < self.positionErrorThresholdAng):
+            self.onArrivedAtDestination()
+        else:
+            self.onStoppedBeforeArriving(positionError.toVector())
+
+    def onInput_onStop(self):
+        self.onUnload()]]>
+</content>
+                            </script>
+                            <Input name="onLoad" type="1" type_size="1" nature="0" inner="1" tooltip="Signal sent when Diagram is loaded." id="1" />
+                            <Input name="onStart" type="1" type_size="1" nature="2" inner="0" tooltip="Box behavior starts when a signal is received on this input." id="2" />
+                            <Input name="onStop" type="1" type_size="1" nature="3" inner="0" tooltip="Box behavior stops when a signal is received on this input." id="3" />
+                            <Output name="onArrivedAtDestination" type="1" type_size="1" nature="1" inner="0" tooltip="Signal sent when the robot arrives at its destination." id="4" />
+                            <Output name="onStoppedBeforeArriving" type="0" type_size="1" nature="1" inner="0" tooltip="Signal sent when the robot stops before arriving to its destination. Returns a vector [x (m), y (m), theta(rad)] with the remaining distance up to the destination. This distance is expressed in the ROBOT frame." id="5" />
+                            <Parameter name="Distance X (m)" inherits_from_parent="0" content_type="2" value="0" default_value="0.2" min="-5" max="10" tooltip="The distance in meters for forward/backward motion. Positive value&#x0A;means forward, negative value means backward." id="6" />
+                            <Parameter name="Distance Y (m)" inherits_from_parent="0" content_type="2" value="0" default_value="0" min="-5" max="5" tooltip="The distance in meters for lateral motion. Positive value means left, negative&#x0A;value means right." id="7" />
+                            <Parameter name="Theta (deg)" inherits_from_parent="0" content_type="2" value="-88" default_value="0" min="-180" max="180" tooltip="The orientation in degrees for final rotation. Positive value means anticlockwise,&#x0A;negative value means clockwise." id="8" />
+                            <Parameter name="Arms movement enabled" inherits_from_parent="0" content_type="0" value="1" default_value="1" tooltip="Enables natural motion of the arms." id="9" />
+                            <Resource name="Legs" type="Lock" timeout="0" />
+                        </Box>
+                        <Box name="Wait For Signals (2)" id="9" localization="8" tooltip="Wait for both inputs to be stimulated before stimulating its output." x="462" y="39">
                             <bitmap>media/images/box/wait.png</bitmap>
                             <script language="4">
                                 <content>
@@ -1965,7 +2060,10 @@ class MyClass(GeneratedClass):
                         <Link inputowner="0" indexofinput="4" outputowner="2" indexofoutput="4" />
                         <Link inputowner="6" indexofinput="2" outputowner="0" indexofoutput="2" />
                         <Link inputowner="7" indexofinput="2" outputowner="6" indexofoutput="4" />
-                        <Link inputowner="5" indexofinput="2" outputowner="7" indexofoutput="4" />
+                        <Link inputowner="8" indexofinput="2" outputowner="7" indexofoutput="4" />
+                        <Link inputowner="9" indexofinput="2" outputowner="8" indexofoutput="4" />
+                        <Link inputowner="5" indexofinput="2" outputowner="9" indexofoutput="4" />
+                        <Link inputowner="9" indexofinput="2" outputowner="8" indexofoutput="5" />
                     </Diagram>
                 </BehaviorKeyframe>
             </BehaviorLayer>
