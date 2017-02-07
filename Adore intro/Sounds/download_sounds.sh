@@ -2,9 +2,9 @@
 
 wget -O bok.wav "https://drive.google.com/uc?export=download&id=0ByIZc3t3wyJoR0p0TjlqcTJMUTg"
 
-wget -O dodji.wav "https://drive.google.com/uc?export=download&id="
+wget -O dodji.wav "https://drive.google.com/uc?export=download&id=0ByIZc3t3wyJoUG93UGdYY0lPTjA"
 
-wget -O dodji_se_igrati.wav "https://drive.google.com/uc?export=download&id="
+wget -O dodji_se_igrati.wav "https://drive.google.com/uc?export=download&id=0ByIZc3t3wyJoSXM3NEpEWUpCM1U"
 
 wget -O nesto_cu_ti_pokazati.wav "https://drive.google.com/uc?export=download&id=0ByIZc3t3wyJoNHBEeXZzSHcydHM"
 
