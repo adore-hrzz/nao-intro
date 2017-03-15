@@ -20,3 +20,10 @@ wget -O sada_se_moram_malo_odmoriti.wav "https://drive.google.com/uc?export=down
 
 wget -O pa_pa_rate02e.wav "https://drive.google.com/uc?export=download&id=0ByIZc3t3wyJoWWM4XzMtOENuOUU"
 
+# Review intro
+
+wget -O dobar_dan_i_dobrodosli.wav "https://drive.google.com/uc?export=download&id=0ByIZc3t3wyJoaS1uYVdENjRqTjQ"
+
+wget -O ja_sam_her_flik.wav "https://drive.google.com/uc?export=download&id=0ByIZc3t3wyJob2xSQU9KT0MtMVk"
+
+wget -O demonstrirati_cemo.wav "https://drive.google.com/uc?export=download&id=0ByIZc3t3wyJobXY5bHl6alZ6QnM"
